@@ -1,0 +1,29 @@
+BAKERY SALES DATA ANALYSIS USING PYTHON
+=============================================
+
+PROJECT OBJECTIVE
+To analyze bakery sales transactions using Python.
+
+LIBRARIES USED
+1. Pandas
+2. NumPy
+3. Matplotlib
+4. Seaborn
+
+DATA CLEANING
+Duplicate records removed.
+DateTime converted successfully.
+New date and time columns created.
+
+BUSINESS INSIGHTS
+Most Selling Product: Coffee
+Least Selling Product: Chicken sand
+Busiest Day: Saturday
+Busiest Month: 3
+Peak Shopping Hour: 11
+Most Active Daypart: Afternoon
+
+CONCLUSION
+Bakery sales transactions were analyzed using Python.
+Data cleaning and visualization helped identify
+product preferences and transaction patterns.
